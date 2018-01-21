@@ -1,2 +1,3 @@
 # tidbit.conf
-Forknote config file
+Config file for TidbiT coin - 
+http://forknote.net/create/#/
